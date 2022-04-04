@@ -2,5 +2,6 @@
 - My Specialties: 
   -  FE: HTML, CSS, JavaScript, Ruby, React, AngularJS, PostgreSQL, Django, MongoDB
   -  Languages: Java, C#, C++, Python, Agile
+  -  Working On: MEAN Stack (MongoDB, Express.js, Angular.js (depreciated), Node.js)
 
 
